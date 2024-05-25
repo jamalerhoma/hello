@@ -1,0 +1,54 @@
+[33mcommit cd4432335176157473121ad0473707ca46251460[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Jamal Erhoma <jamalerhoma@gmail.com>
+Date:   Sat May 25 21:47:27 2024 +0200
+
+    Fix merage conflict
+
+[33mcommit bf987ca258413ea653a00d4cb56d4bf32dbe0552[m
+Merge: 99d9c6e 56b07a7
+Author: Jamal Erhoma <jamalerhoma@gmail.com>
+Date:   Sat May 25 21:45:59 2024 +0200
+
+    Fix merage conflict
+
+[33mcommit 56b07a75eb47a7382be69c584dc7a96e4aba16df[m
+Author: jamalerhoma <53163109+jamalerhoma@users.noreply.github.com>
+Date:   Sat May 25 21:42:03 2024 +0200
+
+    Add new
+
+[33mcommit 99d9c6e0860b1906cdacb35641a14b7b05d01df7[m
+Author: Jamal Erhoma <jamalerhoma@gmail.com>
+Date:   Sat May 25 21:41:17 2024 +0200
+
+    Add excalamtion point
+
+[33mcommit 79da896216b57cd71a9c6134b45c2bda63db125b[m
+Author: jamalerhoma <53163109+jamalerhoma@users.noreply.github.com>
+Date:   Sat May 25 21:39:30 2024 +0200
+
+    Add style
+
+[33mcommit fdae9aa6bf4a5233f6964caddd03a900b8269fc9[m
+Author: jamalerhoma <53163109+jamalerhoma@users.noreply.github.com>
+Date:   Sat May 25 21:24:45 2024 +0200
+
+    Add h2
+
+[33mcommit 57140d0c2baa4aecf0b3b016a08069eccd85d0b7[m
+Author: Jamal Erhoma <jamalerhoma@gmail.com>
+Date:   Sat May 25 21:17:03 2024 +0200
+
+    Add a heading
+
+[33mcommit bbb25c2f636418fe1a6ec8f0f4d977e09555ef38[m
+Author: Jamal Erhoma <jamalerhoma@gmail.com>
+Date:   Sat May 25 21:10:01 2024 +0200
+
+    Save Lines
+
+[33mcommit 641e6875c1a1f06b317505346a5254f7da4ab526[m
+Author: Jamal Erhoma <jamalerhoma@gmail.com>
+Date:   Sat May 25 20:58:21 2024 +0200
+
+    Add hello.html
